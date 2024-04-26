@@ -6,7 +6,7 @@ Programming Language ===> Python
 
 Description Of Files:
 
-snake.py => For Run ===> python snake.py
+snake.py ==> For Run ===> python snake.py
 
 Required packages for python ===> tkinter , random
 
