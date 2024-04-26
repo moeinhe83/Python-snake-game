@@ -1,6 +1,6 @@
 Project Name ===> Snake Game
 
-Program Description ===> Making a snake game with Python
+Program Description ===> Making A snake game with Python
 
 Programming Language ===> Python
 
